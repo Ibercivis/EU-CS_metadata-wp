@@ -1,0 +1,10 @@
+.labelMbCC {
+    display: inline-block;
+    width: 150px;
+}
+
+.inputMbCC {
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 10px;
+}
